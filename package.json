@@ -1,0 +1,10 @@
+{
+  "name": "node-hable-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "hable": "^3.0.0"
+  }
+}
